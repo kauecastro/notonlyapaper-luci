@@ -4,7 +4,7 @@ Luci API is an REST API designed to serve data and insights to NotOnlyAPaper.
 
 ## Setup
 
-First, you have to make sure that you have the following plataforms installed in your enviroment:
+First at all you have to make sure that you have the following plataforms installed in your enviroment:
 
 - * https://nodejs.org/en/download/ : `NodeJS`;
 
