@@ -1,6 +1,6 @@
 # NotOnlyAPaper - luci API Docs.
 
-Luci API is an REST API designed to serve data and insights to NotOnlyAPaper. 
+Luci API is an REST API written in NodeJS designed to serve data and insights to NotOnlyAPaper. 
 
 ## Setup
 
